@@ -943,10 +943,10 @@ PERFORMANCE OF THIS SOFTWARE.
       <strong class="svelte-1bc0c3i">2</strong>
       a coordination experiment <strong class="svelte-1bc0c3i">3</strong> on\u2013chain NFT poems.
       <br/> 
-      <em class="know-more svelte-1bc0c3i">Want to know more? Check our <a href="/faq">FAQs</a></em></p>`,n=xr(),M&&M.c(),i=xr(),s=rt("div"),a=rt("section"),a.innerHTML=`<h2 class="svelte-1bc0c3i">Auctions</h2> 
+      <em class="know-more svelte-1bc0c3i">Want to know more? Check our <a href="/faq">FAQ</a></em></p>`,n=xr(),M&&M.c(),i=xr(),s=rt("div"),a=rt("section"),a.innerHTML=`<h2 class="svelte-1bc0c3i">Auctions</h2> 
     <p class="svelte-1bc0c3i">Every time a <em>Decent Poem</em> is completed, it is sold in a
       <em>Dutch auction</em>. If the auction succeedes, a new NFT is minted and
-      the <strong class="svelte-1bc0c3i">preceedings are split to the authors</strong>, otherwise the
+      the <strong class="svelte-1bc0c3i">preceedings are split among the authors</strong>. If not, the
       poem is <strong class="svelte-1bc0c3i">lost forever</strong>.</p>`,o=xr(),T&&T.c(),c=xr(),j&&j.c(),f=Hu(),$e(r,"class","intro header svelte-1bc0c3i"),$e(e,"class","main svelte-1bc0c3i"),$e(a,"class","intro svelte-1bc0c3i"),$e(s,"class","auctions svelte-1bc0c3i")},m(_,L){pt(_,e,L),Be(e,r),Be(e,n),M&&M.m(e,null),pt(_,i,L),pt(_,s,L),Be(s,a),Be(s,o),T&&T.m(s,null),pt(_,c,L),j&&j.m(_,L),pt(_,f,L),y=!0},p(_,[L]){_[0]&&_[1]?M?(M.p(_,L),L&3&&xt(M,1)):(M=qA(_),M.c(),xt(M,1),M.m(e,null)):M&&(yi(),Ct(M,1,1,()=>{M=null}),vi()),_[3]&&_[4]?T?(T.p(_,L),L&24&&xt(T,1)):(T=VA(_),T.c(),xt(T,1),T.m(s,null)):T&&(yi(),Ct(T,1,1,()=>{T=null}),vi()),_[5]&&_[5].length?j?(j.p(_,L),L&32&&xt(j,1)):(j=JA(_),j.c(),xt(j,1),j.m(f.parentNode,f)):j&&(yi(),Ct(j,1,1,()=>{j=null}),vi())},i(_){y||(xt(M),xt(T),xt(j),y=!0)},o(_){Ct(M),Ct(T),Ct(j),y=!1},d(_){_&&ht(e),M&&M.d(),_&&ht(i),_&&ht(s),T&&T.d(),_&&ht(c),j&&j.d(_),_&&ht(f)}}}function zle(t,e,r){let n,i,s,a,o,c;return Is(t,Sce,f=>r(0,n=f)),Is(t,_ce,f=>r(1,i=f)),Is(t,vC,f=>r(2,s=f)),Is(t,bf,f=>r(3,a=f)),Is(t,jce,f=>r(4,o=f)),Is(t,Dce,f=>r(5,c=f)),[n,i,s,a,o,c]}class Ple extends Mi{constructor(e){super(),xi(this,e,zle,Ole,ci,{})}}const Rle=`<h1>FAQ</h1>
 <h2>What is Decent Poems</h2>
 <p>Decent Poems is a website that allows people over the internet to write poems. In Decent Poems, a poem has a title and six verses. Everyone can participate, but there are few rules to spice up things a bit:</p>
