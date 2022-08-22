@@ -977,7 +977,7 @@ PERFORMANCE OF THIS SOFTWARE.
 <h2>What is the license of the NFT?</h2>
 <p>CC BY-NC-ND 4.0</p>
 <h2>How are NFT sold? What is a &quot;Dutch auction&quot;?</h2>
-<p>Every poem is sold in a so called <em>Dutch auction</em>. The auction starts right after the poem is completed. The initial price is set to 777 MATIC. In the next 7 days, the price slowly decreases reaching the value of 0.777 MATIC. The first person to bid will end the auction and get the NFT. If no one bids, the poem is lost forever.</p>
+<p>Every poem is sold in a so called <em>Dutch auction</em>. The auction starts right after the poem is completed. The initial price is set to 777 MATIC. In the next 7 days, the price slowly decreases reaching the value of 7 MATIC. The first person to bid will end the auction and get the NFT. If no one bids, the poem is lost forever.</p>
 <h2>Do I get money if I participate? How?</h2>
 <p>If you are the author of one or more verses, and the pome has been sold you get money in two ways:</p>
 <ul>
